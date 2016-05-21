@@ -109,7 +109,6 @@ body {
 div>ul>li {
     list-style: none;
 }
-
 #way ul>li:last-child {
     color: #767676;
 }
@@ -125,7 +124,6 @@ div>ul>li {
     padding-left: 15px;
     padding-right: 10px;
 }
-
 #leftblock {
     width: 200px;
 }
@@ -145,7 +143,8 @@ div>ul>li {
     list-style: circle;
     padding-left: 20px;
     padding-bottom: 1em;
-    list-style-type: disc;!important;
+    list-style-type: disc;
+    !important;
     color: #767676;
 }
 #list a {
@@ -214,7 +213,6 @@ hr {
 #fix {
     width: 220px;
 }
-
 #text1 {
     margin-left: -25px
 }
@@ -250,8 +248,9 @@ hr {
     color: #282c37;
 }
 .up {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
+
 /* fade slider  */
 
 .carousel .item {
